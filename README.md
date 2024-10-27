@@ -4,26 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fredy+Almeyda+Alania!;" />
 </h1>
 
-### 👤 Acerca de Mí
+### 👤 About Me
 
-- 🌍 Basado en Perú
-- ✉️ Puedes contactarme en [almeydaalania@gmail.com](mailto:almeydaalania@gmail.com)
-- 💼 Ingeniero de Software con experiencia en desarrollo de aplicaciones web y backend, enfocado en mejorar la calidad, rendimiento y experiencia de usuario en soluciones escalables y seguras.
-- 💻 Con experiencia en diseño y desarrollo Full Stack en equipos ágiles. Actualmente, me especializo en tecnologías como Angular, Next.js, Spring Boot, Python y Docker.
+- 🌍 Based in Peru
+- ✉️ Contact me at [almeydaalania@gmail.com](mailto:almeydaalania@gmail.com)
+- 💼 Software Engineer with experience in web and backend application development, focused on enhancing quality, performance, and user experience in scalable and secure solutions.
+- 💻 Skilled in Full Stack development in agile teams. Currently specializing in technologies like Angular, Next.js, Spring Boot, Python, and Docker.
 
-### 🚀 Experiencia Profesional
-
-- **Cdx Innova** - Desarrollador FullStack  
-  *Marzo 2024 – Julio 2024, Lima, Perú*  
-  - Mejoré la experiencia del usuario en un 25% y reduje incidentes de seguridad en un 20% al implementar autenticación segura.
-  - Colaboré en el desarrollo de frontend y backend, optimizando la eficiencia de despliegue en un 30%.
-
-- **MVC Partners** - Desarrollador FullStack  
-  *Octubre 2024, Lima, Perú*  
-  - Optimización de integración de datos con Flask y MySQL, diseño de una interfaz intuitiva en Angular.
-  - Implementé microservicios con Docker para aumentar la escalabilidad y flexibilidad de las aplicaciones.
-
-### 🛠️ Habilidades Técnicas
+### 🛠️ Technical Skills
 
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -50,9 +38,9 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
-### 📚 Educación y Certificaciones
-- **Ingeniería de Software** - Universidad Peruana de Ciencias Aplicadas, *Lima, Perú* (2020 - Presente)
-- **QA Engineering** - TripleTen, *Lima, Perú* (2024)
+### 📚 Education and Certifications
+- **Software Engineering** - Universidad Peruana de Ciencias Aplicadas, *Lima, Peru* (2020 - Present)
+- **QA Engineering** - TripleTen, *Lima, Peru* (2024)
 
 ### 📊 GitHub Stats
 
