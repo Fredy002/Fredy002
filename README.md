@@ -40,7 +40,7 @@
 
 ### 📚 Education and Certifications
 - **Software Engineering** - Universidad Peruana de Ciencias Aplicadas, *Lima, Peru* (2020 - Present)
-- **QA Engineering** - TripleTen, *Lima, Peru* (2024)
+- **QA Engineering** - TripleTen, (2024)
 
 ### 📊 GitHub Stats
 
